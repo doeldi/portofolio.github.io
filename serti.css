@@ -105,3 +105,10 @@ span {
     transform: translateY(-5px) scale(1);
     cursor: pointer;
 }
+
+@media screen and (max-width: 320px) {
+    .sertifikat-content {
+        margin-right: 40px;
+        margin-left: 37px;
+    }
+}
