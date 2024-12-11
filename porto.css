@@ -1120,6 +1120,14 @@ audio {
     border-radius: 0.5rem;
 }
 
+#sertifikat-card_container1 {
+    background-image: url('img/dico.png');
+}
+
+#sertifikat-card_container2 {
+    background-image: url('img/fe.png');
+}
+
 .sertifikat-card_container::before {
     content: "";
     position: absolute;
